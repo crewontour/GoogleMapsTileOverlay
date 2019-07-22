@@ -24,7 +24,8 @@ Pod::Spec.new do |spec|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = GoogleMapsTileOverlay lets you customize Apple Maps MKMapView with the Google Maps StylingWizard.
+  spec.description  = "GoogleMapsTileOverlay lets you customize Apple Maps MKMapView with the Google Maps StylingWizard."
+
 
   spec.homepage     = "https://github.com/crewontour/GoogleMapsTileOverlay"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
